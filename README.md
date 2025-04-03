@@ -22,3 +22,12 @@ A collaborative **accounting application** built with **Java** to manage financi
 - [e.g., JavaFX, Spring Boot, JDBC]
 
 ---
+
+
+## 📌 Getting Started
+
+To run this application locally:
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/yourusername/accountingApp.git
